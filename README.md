@@ -1,6 +1,7 @@
 # Ideagen_Calculator
-Candidate: Iman Zarifah Zahurin
-Time taken to complete the test: 07 hrs 30 mins
+# Candidate: Iman Zarifah Zahurin
+
+# Time taken to complete the test: 07 hrs 30 mins
 
 Solution:
 1.	User key-in the value in a WinForm.
